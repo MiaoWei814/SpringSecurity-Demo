@@ -1,0 +1,2 @@
+# SpringSecurityDemo
+springSecurity学习的demo,主要是springBoot集成与thymeleaf
